@@ -1,10 +1,10 @@
 %s ago=%s назад
 %s used of %s %s %%=%s зайнято із %s (%s %%)
-1 m=1 м
+1 m=1 х
 10 s=10 с
-2 m=2 м
+2 m=2 х
 30 s=30 с
-5 m=м
+5 m=х
 Abort background operation=Перервати фонову операцію
 Abort background process=Перервати фоновий процес
 Active tunnels=Активні туннелі
